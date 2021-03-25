@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testRest" project="testRest" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="mx.tec.lab.rest.GreetingRestControllerTest" time="0.405" displayname="GreetingRestControllerTest" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.rest.GreetingRestControllerTest]">
+    <testcase name="givenARequest_WhenEmptyName_thenHelloWorld" classname="mx.tec.lab.rest.GreetingRestControllerTest" time="0.405" displayname="givenARequest_WhenEmptyName_thenHelloWorld()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.rest.GreetingRestControllerTest]/[method:givenARequest_WhenEmptyName_thenHelloWorld()]"/>
+  </testsuite>
+</testrun>
